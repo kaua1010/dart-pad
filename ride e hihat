@@ -1,0 +1,13 @@
+void main() 
+{
+ int hihat=14;
+ int ride=20;
+  
+ if(hihat>ride)
+ {
+  print("O hihat e maior que o ride!");
+ }else
+ {
+   print("O hihat e menor que o ride!");
+ }
+}
